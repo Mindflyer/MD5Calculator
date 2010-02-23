@@ -16,12 +16,8 @@
 #       MA 02110-1301, USA.
 #
 #
-# Form implementation generated from reading ui file '/home/davide/Scrivania/md5_calc.ui'
-#
-# Created: Sun Feb 21 16:45:18 2010
-#      by: PyQt4 UI code generator 4.6
-#
-# WARNING! All changes made in this file will be lost!
+# Form implementation generated from reading ui file 'md5_calc_gui.ui'
+
 
 from PyQt4 import QtCore, QtGui
 
@@ -52,4 +48,4 @@ class Ui_FormMD5(object):
 
     def retranslateUi(self, FormMD5):
         self.CalcMD5.setText(QtGui.QApplication.translate("FormMD5", "Calculate\n""MD5 HASH", None, QtGui.QApplication.UnicodeUTF8))
-
+        
